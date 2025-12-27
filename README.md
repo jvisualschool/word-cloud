@@ -112,7 +112,7 @@ J워드클라우드는 **'몰입감 있는 데이터 경험'**을 최우선 가�
 
 ## 👨‍💻 개발자 (Developer)
 **Jinho Jung**
-- **Email**: support@jvibeschool.com
+- **Email**: jvisualschool@gmail.com
 - **Role**: Full Stack Developer & UI/UX Designer
 - **Version**: 2026.1 (Stable)
 
